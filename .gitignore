@@ -25,6 +25,8 @@ Desktop.ini
 *.pdsbak
 Backup/
 Simulation Results/
+*.workspace
+*.pdsbak
 
 # Variables privadas
 .env
