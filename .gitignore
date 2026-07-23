@@ -23,10 +23,9 @@ Desktop.ini
 
 # Proteus
 *.pdsbak
+*.workspace
 Backup/
 Simulation Results/
-*.workspace
-*.pdsbak
 
 # Variables privadas
 .env
