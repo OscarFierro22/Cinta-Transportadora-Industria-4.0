@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+**/.vs/
+**/Debug/
+**/Release/
+**/x64/
+
+# Archivos compilados
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.user
+*.suo
+
+# Archivos temporales
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+
+# Proteus
+*.pdsbak
+Backup/
+Simulation Results/
+
+# Variables privadas
+.env
